@@ -4,20 +4,20 @@
 The provided dataset contains information about various Marvel Cinematic Universe (MCU) movies, including key details like their release dates, ratings, budgets, and box office earnings. Here’s a breakdown of the columns and the information they represent:
 
 # Key Columns:
-Index: The row number for each movie.
-Title: The name of the movie.
-Director (1): The primary director of the movie.
-Director (2): A secondary director if applicable (some movies have multiple directors).
-Release Date: The date when the movie was released (in DD-MM-YYYY format).
-IMDb: The IMDb rating, scored out of 10.
-IMDb Metascore: The IMDb Metascore rating, scored out of 100.
-Rotten Tomatoes - Critics: The critic score on Rotten Tomatoes, scored out of 100%.
-Rotten Tomatoes - Audience: The audience score on Rotten Tomatoes, scored out of 100%.
-Letterboxd: The rating on Letterboxd, scored out of 5.
-CinemaScore: The grade assigned to the movie by CinemaScore, ranging from A+ to F.
-Budget (in million $): The movie's production budget in millions of dollars.
-Domestic Gross (in million $): The revenue generated in the domestic market (in millions of dollars).
-Worldwide Gross (in million $): The total revenue generated worldwide (in millions of dollars)
+ Index: The row number for each movie.
+ Title: The name of the movie.
+ Director (1): The primary director of the movie.
+ Director (2): A secondary director if applicable (some movies have multiple directors).
+ Release Date: The date when the movie was released (in DD-MM-YYYY format).
+ IMDb: The IMDb rating, scored out of 10.
+ IMDb Metascore: The IMDb Metascore rating, scored out of 100.
+ Rotten Tomatoes - Critics: The critic score on Rotten Tomatoes, scored out of 100%.
+ Rotten Tomatoes - Audience: The audience score on Rotten Tomatoes, scored out of 100%.
+ Letterboxd: The rating on Letterboxd, scored out of 5.
+ CinemaScore: The grade assigned to the movie by CinemaScore, ranging from A+ to F.
+ Budget (in million $): The movie's production budget in millions of dollars.
+ Domestic Gross (in million $): The revenue generated in the domestic market (in millions of dollars).
+ Worldwide Gross (in million $): The total revenue generated worldwide (in millions of dollars)
 
 # Potential Analyses You Could Conduct:
 
