@@ -4,7 +4,7 @@
 The provided dataset contains information about various Marvel Cinematic Universe (MCU) movies, including key details like their release dates, ratings, budgets, and box office earnings. Here’s a breakdown of the columns and the information they represent:
 
 # Key Columns:
-/ Index: The row number for each movie.
+ Index: The row number for each movie.
  Title: The name of the movie.
  Director (1): The primary director of the movie.
  Director (2): A secondary director if applicable (some movies have multiple directors).
